@@ -1,0 +1,20 @@
+    <resources>
+    <string name="app_name">msgshareapp</string>
+    <string name="i_m_jatin_yadav">I\'m Jatin Yadav</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="hey_there">Hey There</string>
+    <string name="name">Name</string>
+    <string name="jatin_the_champ">Jatin the champ</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="send_data_to_next_activity">Send Data to Next activity</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="share_to_other_apps">Share to other apps</string>
+    <string name="recycler_view_demo">Recycler View Demo</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+        <string name="textview">TextView</string>
+        <string name="wish_happy_birthday">Wish Happy Birthday</string>
+        <string name="enter_name">Enter Name</string>
+        <string name="share">Share</string>
+        <string name="birthday_plans">Birthday Plans</string>
+    </resources>
