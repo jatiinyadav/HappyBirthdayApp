@@ -1,6 +1,6 @@
 # Happy Birthday App
 
-A app where you can wish your friends Happy Birthday and share it on different social media platforms. 
+An app which will help you to wish your friends a **Happy Birthday** and share it on different social media platforms. 
 
 ## Connect with me
 <a href="https://github.com/jatiinyadav" target="_blank">
